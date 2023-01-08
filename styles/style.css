@@ -38,6 +38,14 @@ section {
     display: inline-block;
 }
 
+.btn-secondary {
+    background-color: transparent;
+    border: 1px solid #fd6e0a;
+    color: #fd6e0a;
+    padding: 19px 29px;
+    margin-left: 10px;
+}
+
 .fa-download {
     margin-left: 5px;
 }
