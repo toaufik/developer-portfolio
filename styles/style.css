@@ -35,7 +35,10 @@ section {
     border: none;
     border-radius: 5px;
     display: inline-block;
+}
 
+.fa-download {
+    margin-left: 5px;
 }
 
 /* Header and navigation styles */
@@ -243,8 +246,6 @@ main section {
 }
 
 .resume-area .btn-primary {
-    display: flex;
-    margin: 0 auto;
     margin-top: 30px;
 }
 
@@ -253,6 +254,7 @@ main section {
 main .contact-area {
     max-width: 100%;
 }
+
 .contact-area {
     background: #FFF8F3;
     display: flex;
