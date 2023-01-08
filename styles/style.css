@@ -26,7 +26,8 @@ section {
     color: #fd6e0a;
 }
 
-.btn-primary {
+.btn-primary,
+.btn-secondary {
     background-color: #fd6e0a;
     color: #fff;
     font-size: 20px;
